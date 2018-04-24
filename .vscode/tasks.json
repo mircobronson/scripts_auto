@@ -17,6 +17,18 @@
                 "kind": "build",
                 "isDefault": true
             }
+        },
+        {
+            "type": "process",
+            "taskName": "OneScript: run",
+            "problemMatcher": [
+                "$OneScript Linter"
+            ],
+            "command": "oscript",
+            "args": [
+                "${file}"
+            ],
+            "group": "build"
         }
     ]
 }
