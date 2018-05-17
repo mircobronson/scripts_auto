@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<opm-metadata xmlns="http://oscript.io/schemas/opm-metadata/1.0">
-    <name>messenger</name>
-    <version>2.0.4</version>
-    <engine-version>1.0.17</engine-version>
-    <depends-on name="json" />
-</opm-metadata>

@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<opm-metadata xmlns="http://oscript.io/schemas/opm-metadata/1.0">
-    <name>InternetMail</name>
-    <version>1.0.4</version>
-    <author>Батанов Сергей</author>
-    <author-email>sergey.batanov@dmpas.ru</author-email>
-    <description>Реализация стандартных объектов из раздела ИнтернетПочта</description>
-    <engine-version>1.0.15</engine-version>
-</opm-metadata>
